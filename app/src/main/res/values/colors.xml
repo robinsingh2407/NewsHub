@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#005689</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="swipe_color_1">#4CAF50</color>
+    <color name="swipe_color_2">#03A9F4</color>
+    <color name="swipe_color_3">#FFC107</color>
+    <color name="swipe_color_4">#FF5722</color>
+
+    <color name="color_section">#4CAF50</color>
+    <color name="color_author">#8E24AA</color>
+
+    <!-- Colors for settings of color theme-->
+    <color name="white">#ffffff</color>
+    <color name="violet">#9c27b0</color>
+    <color name="light_green">#8bc34a</color>
+
+    <!-- Colors for gradient.xml file -->
+    <color name="gradient_center_color">#880d0d0f</color>
+    <color name="gradient_end_color">#885d5d5e</color>
+    <color name="gradient_start_color">#880f0f10</color>
+
+    <color name="color_trail_text">#102027</color>
+    <color name="color_date_text">#a4a4a4</color>
+
+    <color name="color_app_bar_text">#000000</color>
+    <color name="color_tab_text">#a7c0cd</color>
+
+    <color name="nav_bar_start">#000000</color>
+    <color name="nav_bar_end">#002e5b</color>
+
+
+
+
+
+
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primaryColor">#141d26</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primaryDark">#141d26</color>
+    <!-- Menu Title Background -->
+    <color name="menuTitleBackground">#ffffff</color>
+    <!-- color used for cardview background -->
+    <color name="backgroundColorOverlay">#141d26</color>
+    <!-- color used for cardview background when no thumbnail -->
+    <color name="backgroundColorOverlayBlack">#000000</color>
+    <!-- App's background color -->
+    <color name="backgroundColor">#485a6e</color>
+    <!-- Accent color of the app -->
+    <color name="primaryHilight">#ee0290</color>
+    <!-- Accent color of the app -->
+    <color name="secondaryHilight">#1da1f2</color>
+    <!-- Primary Text Color -->
+    <color name="primaryTextColor">@android:color/white</color>
+    <!-- Primary Light Text Color -->
+    <color name="primaryLight">#8899a6</color>
+</resources>
